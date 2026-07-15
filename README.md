@@ -4,7 +4,9 @@
 
 无需在本地安装 Python、CUDA 或模型环境，只需要一个 Google 账号，即可在浏览器中运行。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oneforce/google-colab/blob/main/Qwen3_TTS_Colab_10_English_WAV.ipynb)
+[![Open In Colab： Qwen3_TTS_Colab_10_English_WAV](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oneforce/google-colab/blob/main/Qwen3_TTS_Colab_10_English_WAV.ipynb)
+
+[![Open In Colab： Kokoro_82M_Colab_T4_10_English_WAV.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oneforce/google-colab/blob/main/Kokoro_82M_Colab_T4_10_English_WAV.ipynb)
 
 ## Notebook
 
